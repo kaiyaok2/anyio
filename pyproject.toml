@@ -52,6 +52,7 @@ test = [
     "pytest-mock >= 3.6.1",
     "trustme",
     "uvloop >= 0.17; platform_python_implementation == 'CPython' and platform_system != 'Windows'",
+    "pytest-ranking == 0.2.6"
 ]
 doc = [
     "packaging",
